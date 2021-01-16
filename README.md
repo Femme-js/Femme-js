@@ -17,5 +17,5 @@
 - ⚡ Fun fact: I have a fantasy to see Northern Lights with the love of my life. 
 
 
-![Jeevanshi's Github Stats] <img align="center" src="https://github-readme-stats.vercel.app/api/?username=femme-js&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=femme-js&theme=radical" />
 
