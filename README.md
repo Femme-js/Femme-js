@@ -4,22 +4,23 @@
 **Femme-js/Femme-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align = 'center'>
-Greetings! I am a senior year Electrical Engineering undergraduate from Zakir Husain College of Engineering and Technology, Aligarh Muslim University, India. At present I am working as a Data Science Intern at Emplay. I was also a Mitacs Globalink Research Intern (2020) at Dalhousie University working under Prof. Darren Abramson. We together worked on the open-end problem of incorporating common sense reasoning in language models, evaluating multiple State-Of-The-Art models in a collection of benchmarks for compositional generalization in language and algorithmic tasks. I contributed predominantly in preparing the data for pre-training on language models and bringing results on benchmark datasets for compositional tasks.
+Jeevanshi is a recent Electrical Engineer graduate from Aligarh Muslim University, India. She is majorly working around the ideas that intersect Language, Cognition and Machine Intelligence. She has been a Mitacs Globalink Research Intern in 2020 at Dalhousie University, Halifax, Canada. Recently, she worked as a Data Science Intern at Emplay, Dublin, CA, contributing to developing keyphrases generation api end-to-end and creating models to detect toxicity in user’s feed for fortune 500 clients. She has been a memeber of the Centre for Interdisciplinary Biomedical and Human Factors Engineering directed by Prof. Yusuf Uzzaman Khan who has also been her thesis-advisor.
 
-I am interested in research that lies at the intersection of Machine Learning and Cognitive Sciences.
+She loves to participate in hackathons, perform theatre or learn about Jung’s Ideas on understanding the psyche. Her inspiration to work in the field of Machine Learning came from her immense desire to understand about human brain in a more comprehensive way. Her curosity about the philosiphical and psychological ideas explaining the phenomenons not explained by science, makes me fiddle around the ways that can explain those ideas on empirical data. Apart from it, she loves Music, Mythological Stories, Theatre, and Books.
+
 
 I am open to collaborated on research projects in the NLP domain. I am especially interested in ambiguity problems in natural language understanding, and common sense reasoning, but I am open to trying new ideas as well.
 
-My curosity about the philosiphical and psychological ideas explaining the phenomenons not explained by science, makes me fiddle around the ways that can explain those ideas on empirical data. Apart from it, I love Music, Mythological Stories, Theatre, and Books.
+
  
 
 </p>
 
 
-- 💬 Ask me about : satvic lifestyle
+- 💬 Open for research collaboration
+- :clipboard: Currently working on: Oscialltion activation functions for CNNS
 - 📫 How to reach me: [sharma.jivanshi@gmail.com]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I host Twitter Spaces regularly. 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=femme-js&theme=radical" />
